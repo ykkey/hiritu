@@ -1,0 +1,28 @@
+{
+  "name": "hiritu",
+  "version": "1.0.0",
+  "description": "Calculate the ratio. When you want to know the image size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "image",
+    "ratio"
+  ],
+  "author": "yukiko",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.5.5",
+    "@babel/plugin-proposal-decorators": "^7.6.0",
+    "mobx": "^5.13.0",
+    "mobx-react": "^6.1.3",
+    "next": "^9.0.6",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "styled-components": "^4.4.0"
+  }
+}
